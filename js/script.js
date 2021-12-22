@@ -462,7 +462,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     function calcTotal() {
         if (!sex || !height || !weight || !age || !ratio) {
-            result.textContent = '____';
+            result.textContent = 'xxxx';
             return;
         }
         if (sex === 'female') {
