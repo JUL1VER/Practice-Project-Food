@@ -40,7 +40,7 @@ Once the development server is up and running, you can access the project on you
 
 In the slider you can see the plans and their corresponding diets.
 
-### Сalorie Сalculator
+### Сalculator
 
 The Calorie Calculator allows you to enter your weight, height and age to calculate your daily calorie needs.
 
