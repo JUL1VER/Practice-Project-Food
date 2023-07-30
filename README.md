@@ -12,7 +12,7 @@ This project is a website for a company that offers a daily food delivery servic
 - [Installation](#installation)
 - [Usage](#usage)
   - [Slider](#slider)
-  - [Сalorie Сalculator](#calorie-calculator)
+  - [Calculator](#calculator)
   - [Contact](#contact)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
